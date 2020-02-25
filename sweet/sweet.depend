@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1582586106 source:d:\sweet\main.cpp
+	<iostream>
+	<Windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1582586028 d:\sweet\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1582586148 d:\sweet\keyconstants.h
+	<map>
+	<string>
+
+1582585901 d:\sweet\base64.h
+	<vector>
+	<string>
+
+1582586334 d:\sweet\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	<Windows.h>
+	"Helper.h"
+	"Base64.h"
+
+1582586428 d:\sweet\timer.h
+	<thread>
+	<chrono>
+
+1582588943 d:\sweet\sendmail.h
+	<fstream>
+	<vector>
+	<Windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1582587548 d:\sweet\keybhook.h
+	<iostream>
+	<fstream>
+	<Windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+

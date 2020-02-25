@@ -1,0 +1,18 @@
+[25.02.2020 05:42:20]
+Hook started... Timer started
+
+[25.02.2020 05:42:52]
+Mail was not sent! Error code: 3
+
+[25.02.2020 05:42:52]
+<From SendMail> Return code: 4298096
+
+[25.02.2020 05:43:23]
+Mail was not sent! Error code: 3
+
+[25.02.2020 05:43:46]
+Hook started... Timer started
+
+[25.02.2020 06:02:51]
+Hook started... Timer started
+
